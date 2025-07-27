@@ -32,7 +32,7 @@ class EmailService {
     async sendEmail({ to, subject, text, html, from, cc, bcc, attachments }) {
         try {
             const mailOptions = {
-                from: from || process.env.SMTP_USER,
+                from: from /*|| process.env.SMTP_USER*/,
                 to,
                 subject,
                 text,
