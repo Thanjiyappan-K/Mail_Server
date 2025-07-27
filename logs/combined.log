@@ -1,0 +1,14 @@
+{"host":"smtp.gmail.com","level":"info","message":"Creating email transporter with config:","port":587,"secure":false,"service":"email-service","timestamp":"2025-07-27 12:51:02","user":"thanjiyappankanniyappan@gmail.com"}
+{"level":"info","message":"Email Service running on port 3000","service":"email-service","timestamp":"2025-07-27 12:51:02"}
+{"level":"info","message":"Health check available at http://localhost:3000/health","service":"email-service","timestamp":"2025-07-27 12:51:02"}
+{"level":"info","message":"Sending email to: thanjiyappankanniyappan@gmail.com","service":"email-service","timestamp":"2025-07-27 12:56:47"}
+{"level":"info","message":"Email sent successfully to thanjiyappankanniyappan@gmail.com, MessageID: <afc44ec1-e95a-9008-7041-699c9a4c376a@example.com>","service":"email-service","timestamp":"2025-07-27 12:56:51"}
+{"level":"info","message":"Sending bulk emails to 2 recipients","service":"email-service","timestamp":"2025-07-27 13:00:24"}
+{"level":"info","message":"Email sent successfully to thanjiyappankanniyappan@gmail.com, MessageID: <50d326a9-f14a-780e-71ea-a5b143b84581@gmail.com>","service":"email-service","timestamp":"2025-07-27 13:00:25"}
+{"level":"info","message":"Email sent successfully to thanjiyappan830@gmail.com, MessageID: <499cc1ea-f68a-e80d-67c3-ab2f3cc04a1e@gmail.com>","service":"email-service","timestamp":"2025-07-27 13:00:27"}
+{"host":"smtp.gmail.com","level":"info","message":"Creating email transporter with config:","port":587,"secure":false,"service":"email-service","timestamp":"2025-07-27 13:24:51","user":"thanjiyappankanniyappan@gmail.com"}
+{"level":"info","message":"Email Service running on port 3000","service":"email-service","timestamp":"2025-07-27 13:24:51"}
+{"level":"info","message":"Health check available at http://localhost:3000/health","service":"email-service","timestamp":"2025-07-27 13:24:51"}
+{"host":"smtp.gmail.com","level":"info","message":"Creating email transporter with config:","port":587,"secure":false,"service":"email-service","timestamp":"2025-07-27 13:29:32","user":"thanjiyappankanniyappan@gmail.com"}
+{"level":"info","message":"Email Service running on port 3000","service":"email-service","timestamp":"2025-07-27 13:29:32"}
+{"level":"info","message":"Health check available at http://localhost:3000/health","service":"email-service","timestamp":"2025-07-27 13:29:32"}
